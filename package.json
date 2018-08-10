@@ -1,0 +1,25 @@
+{
+  "name": "ts101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiroHara-Nextremer/TS101.git"
+  },
+  "author": "Hiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiroHara-Nextremer/TS101/issues"
+  },
+  "homepage": "https://github.com/HiroHara-Nextremer/TS101#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
